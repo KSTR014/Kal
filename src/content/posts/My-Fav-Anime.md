@@ -9,7 +9,7 @@ draft: false
 
 ## 1. Roxy Migurdia
 
-<iframe width="100%" height="468" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUV5MHtAGs8Rx9MRwLk72WSo6VEZBQRpC7w&s" title="Foto Roxy Migurdia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENZveQ6xEvI12aR3uoVMAPVFWhZ53rsH-y-cOCzwQKwV57J_K74yx-18d&s=10" title="Foto Roxy Migurdia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2. Milieina Celesteria / Mireina Serestoria (Elaina)
 
