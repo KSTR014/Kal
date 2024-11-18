@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
     credit: {
       enable: true,         // Display the credit text of the banner image
       text: 'KalDev',              // Credit text to be displayed
-      url: 'kalpedia.us.kg'                // (Optional) URL link to the original artwork or artist's page
+      url: ''                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
