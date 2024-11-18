@@ -18,6 +18,8 @@ import { GithubCardComponent } from './src/plugins/rehype-component-github-card.
 import { parseDirectiveNode } from './src/plugins/remark-directive-rehype.js'
 import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
+import { defineConfig } from 'astro/config';
+import vercel from '@astrojs/vercel/serverless';
 
 const oklchToHex = str => {
   const DEFAULT_HUE = 250
@@ -28,6 +30,15 @@ const oklchToHex = str => {
     format: 'hex',
   })
 }
+ 
+export default defineConfig({
+  output: 'server',
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true, // set to false when using @vercel/analytics@1.4.0
+    },
+  }),
+});
 
 // https://astro.build/config
 export default defineConfig({
